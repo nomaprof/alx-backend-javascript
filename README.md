@@ -1,1 +1,1 @@
-ES6 Basics
+All ES6 tasks
